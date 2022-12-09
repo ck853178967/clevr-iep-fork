@@ -1,3 +1,7 @@
+# personal notes
+this is code to reproduce original paper results, no functional modification, no plan to merge back, 
+with some small changes for logging running time or supervising training procedure.
+
 # inferring-and-executing
 
 This is the code for the paper
